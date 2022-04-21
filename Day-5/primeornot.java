@@ -15,7 +15,7 @@ p=1;
 break;
 }
 if(p!=1)
-System.out.println("The prime is "+a);
+System.out.println("The number "+a+" is a prime");
 else
 System.out.println("The number "+a+" is not a prime");
 }
